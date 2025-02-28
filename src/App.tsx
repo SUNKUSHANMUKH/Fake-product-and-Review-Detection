@@ -203,7 +203,7 @@ function App() {
         <section className="mb-16 bg-white rounded-2xl shadow-xl p-8">
           <h2 className="text-2xl font-bold text-indigo-900 mb-6 flex items-center">
             <Link className="text-indigo-600 mr-2" size={24} />
-            Amazon Link Analyzer
+            Link Analyzer
           </h2>
 
           <div className="mb-6">
